@@ -4,8 +4,8 @@ const TechnologiesPage = () => {
   return (
     <>
       <main>
+        <h1>Technologies</h1>
         <p>
-          <h1>Technologies</h1>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
           sit aliquam provident quod fuga perferendis iste ex ipsa eum atque
           minus asperiores error, cumque ducimus autem vero eos quas corporis

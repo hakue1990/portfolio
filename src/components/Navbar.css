@@ -43,7 +43,7 @@ main {
 
 .nav-item:last-child {
   justify-content: center;
-  margin-top: auto;
+  margin: auto;
 }
 
 .nav-link {

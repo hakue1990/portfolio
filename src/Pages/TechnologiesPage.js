@@ -1,13 +1,15 @@
 import React from "react";
-import cardsData from "../data/cardsData";
+import { cardsData } from "../data/cardsData";
 import Card from "../components/Card";
+import "./TechnologiesPage.css";
 
 const TechnologiesPage = () => {
+  const techItems = cardsData.map((item) => <Card item={item} />);
   return (
     <>
       <main>
         <h1>Technologies</h1>
-        <Card />
+        <div className="tech-container">{techItems}</div>
       </main>
     </>
   );

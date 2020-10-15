@@ -122,6 +122,9 @@ main {
 
 /* Small screens */
 @media only screen and (max-width: 600px) {
+  .tech-container {
+    flex-direction: column;
+  }
   .navbar {
     top: 0;
     width: 100%;

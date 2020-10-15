@@ -10,6 +10,7 @@ function Navbar() {
         <ul className="navbar-nav">
           <li className="logo">
             <NavLink to="/" className="nav-link">
+              <i class="fas fa-sun"></i>
               <span className="link-text logo-text">portfolio</span>
               <svg
                 aria-hidden="true"

@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import AboutPage from "./components/AboutPage";
-import TechnologiesPage from "./components/TechnologiesPage";
-import ProjectsPage from "./components/ProjectsPage";
-import ContactPage from "./components/ContactPage";
+import AboutPage from "./Pages/AboutPage";
+import TechnologiesPage from "./Pages/TechnologiesPage";
+import ProjectsPage from "./Pages/ProjectsPage";
+import ContactPage from "./Pages/ContactPage";
 import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
@@ -12,10 +12,10 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route path="/" exact component={AboutPage} />
-        <Route path="/technologies" exact component={TechnologiesPage} />
-        <Route path="/projects" exact component={ProjectsPage} />
-        <Route path="/contact" exact component={ContactPage} />
+        <Route exact path="/" component={AboutPage} />
+        <Route exact path="/technologies" exact component={TechnologiesPage} />
+        <Route exact path="/projects" exact component={ProjectsPage} />
+        <Route exact path="/contact" exact component={ContactPage} />
       </Switch>
     </Router>
   );

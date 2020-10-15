@@ -5,7 +5,7 @@
   --text-secondary: #ececec;
   --bg-primary: #23232e;
   --bg-secondary: #141418;
-  --transition-speed: 600ms;
+  --transition-speed: 500ms;
 }
 
 body {
@@ -43,7 +43,6 @@ main {
 
 .nav-item:last-child {
   justify-content: center;
-  margin: auto;
 }
 
 .nav-link {
@@ -57,7 +56,6 @@ main {
 }
 
 .nav-link:hover {
-  transition: 3s;
   filter: grayscale(0%) opacity(1);
   background: var(--bg-secondary);
   color: var(--text-secondary);
@@ -66,6 +64,7 @@ main {
 .link-text {
   display: none;
   margin-left: 1rem;
+  transition: 3s;
 }
 
 .nav-link svg {

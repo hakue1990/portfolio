@@ -1,5 +1,59 @@
-h1 {
-  font-size: 44px;
-  padding: 10px;
+main.aboutMe {
+  background-color: #333;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main.aboutMe h1 {
+  font-size: 5rem;
+  position: absolute;
+  /* color: white; */
+  padding: 15px;
   /* text-align: center; */
+}
+main h1:nth-child(1) {
+  /* color: transparent; */
+}
+main h1:nth-child(2) {
+  color: #03a9f4;
+  animation: animate 4s ease-in-out infinite;
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    clip-path: polygon(
+      1% 45%,
+      14% 49%,
+      27% 55%,
+      38% 59%,
+      47% 58%,
+      56% 53%,
+      68% 49%,
+      79% 47%,
+      94% 45%,
+      100% 45%,
+      100% 100%,
+      1% 100%
+    );
+  }
+  50% {
+    clip-path: polygon(
+      99% 42%,
+      87% 43%,
+      76% 43%,
+      68% 45%,
+      59% 46%,
+      49% 49%,
+      39% 56%,
+      27% 60%,
+      17% 63%,
+      8% 65%,
+      0% 65%,
+      0% 100%,
+      100% 100%
+    );
+  }
 }

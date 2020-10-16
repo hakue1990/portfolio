@@ -64,7 +64,6 @@ main {
 .link-text {
   display: none;
   margin-left: 1rem;
-  transition: 3s;
 }
 
 .nav-link svg {
@@ -103,7 +102,8 @@ main {
   transition: var(--transition-speed);
 }
 .logo-text {
-  font-size: 13px;
+  font-size: 17px;
+  transition: 0.8s !important;
 }
 .logo-text {
   display: inline;

@@ -1,9 +1,8 @@
 .tech-container {
   margin-top: 70px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
-  position: relative;
 }
 
 .card {
@@ -17,7 +16,6 @@
   box-shadow: 5px 12px 11px -1px rgba(0, 0, 0, 0.75);
   transition: 0.3s ease-in-out;
   font-size: 12px;
-  /* background-color: pink; */
 }
 .card:hover {
   height: 420px;
@@ -47,7 +45,10 @@
   padding: 10px 15px;
   text-align: center;
   visibility: hidden;
-  transition: 0.3s ease-in-out;
+  transition: 0.2s ease-in-out;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
 }
 .card:hover .content {
   visibility: visible;

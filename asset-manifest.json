@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/reactnavbar/static/css/main.c726959f.chunk.css",
-    "main.js": "/reactnavbar/static/js/main.ab7646e6.chunk.js",
-    "main.js.map": "/reactnavbar/static/js/main.ab7646e6.chunk.js.map",
+    "main.css": "/reactnavbar/static/css/main.b4b8851d.chunk.css",
+    "main.js": "/reactnavbar/static/js/main.a3376573.chunk.js",
+    "main.js.map": "/reactnavbar/static/js/main.a3376573.chunk.js.map",
     "runtime-main.js": "/reactnavbar/static/js/runtime-main.615df5cb.js",
     "runtime-main.js.map": "/reactnavbar/static/js/runtime-main.615df5cb.js.map",
-    "static/js/2.82001335.chunk.js": "/reactnavbar/static/js/2.82001335.chunk.js",
-    "static/js/2.82001335.chunk.js.map": "/reactnavbar/static/js/2.82001335.chunk.js.map",
+    "static/js/2.f56728b8.chunk.js": "/reactnavbar/static/js/2.f56728b8.chunk.js",
+    "static/js/2.f56728b8.chunk.js.map": "/reactnavbar/static/js/2.f56728b8.chunk.js.map",
     "index.html": "/reactnavbar/index.html",
-    "precache-manifest.020177a2956e1e445f062105a4eaa037.js": "/reactnavbar/precache-manifest.020177a2956e1e445f062105a4eaa037.js",
+    "precache-manifest.f9c049ad4c525e5c80a38ef22b68f562.js": "/reactnavbar/precache-manifest.f9c049ad4c525e5c80a38ef22b68f562.js",
     "service-worker.js": "/reactnavbar/service-worker.js",
-    "static/css/main.c726959f.chunk.css.map": "/reactnavbar/static/css/main.c726959f.chunk.css.map",
-    "static/js/2.82001335.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.82001335.chunk.js.LICENSE.txt",
+    "static/css/main.b4b8851d.chunk.css.map": "/reactnavbar/static/css/main.b4b8851d.chunk.css.map",
+    "static/js/2.f56728b8.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.f56728b8.chunk.js.LICENSE.txt",
     "static/media/adobe-xd.svg": "/reactnavbar/static/media/adobe-xd.87311a29.svg",
     "static/media/css3.svg": "/reactnavbar/static/media/css3.3707da3c.svg",
     "static/media/gatsby.svg": "/reactnavbar/static/media/gatsby.2def7e70.svg",
+    "static/media/git.svg": "/reactnavbar/static/media/git.1190a19c.svg",
     "static/media/html5.svg": "/reactnavbar/static/media/html5.f0361c5e.svg",
     "static/media/javascript.svg": "/reactnavbar/static/media/javascript.61ed8b05.svg",
     "static/media/npm.svg": "/reactnavbar/static/media/npm.21107776.svg",
     "static/media/photoshop.svg": "/reactnavbar/static/media/photoshop.44676395.svg",
     "static/media/react.svg": "/reactnavbar/static/media/react.4009eef3.svg",
-    "static/media/sass.svg": "/reactnavbar/static/media/sass.b446ca5a.svg"
+    "static/media/sass.svg": "/reactnavbar/static/media/sass.b446ca5a.svg",
+    "static/media/wordpress.svg": "/reactnavbar/static/media/wordpress.ad28d74c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.615df5cb.js",
-    "static/js/2.82001335.chunk.js",
-    "static/css/main.c726959f.chunk.css",
-    "static/js/main.ab7646e6.chunk.js"
+    "static/js/2.f56728b8.chunk.js",
+    "static/css/main.b4b8851d.chunk.css",
+    "static/js/main.a3376573.chunk.js"
   ]
 }

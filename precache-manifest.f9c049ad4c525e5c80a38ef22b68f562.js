@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd1b4823354ccbb7c05bc44271c981e9",
+    "revision": "9a67692cc51845aeb0f0cb342034cd95",
     "url": "/reactnavbar/index.html"
   },
   {
-    "revision": "921ba0a0c9b71948b978",
-    "url": "/reactnavbar/static/css/main.c726959f.chunk.css"
+    "revision": "5e98e899ea47e7b2d22f",
+    "url": "/reactnavbar/static/css/main.b4b8851d.chunk.css"
   },
   {
-    "revision": "85332beb2b414013d172",
-    "url": "/reactnavbar/static/js/2.82001335.chunk.js"
+    "revision": "b1a97ba5b13cf97ea50c",
+    "url": "/reactnavbar/static/js/2.f56728b8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/reactnavbar/static/js/2.82001335.chunk.js.LICENSE.txt"
+    "url": "/reactnavbar/static/js/2.f56728b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "921ba0a0c9b71948b978",
-    "url": "/reactnavbar/static/js/main.ab7646e6.chunk.js"
+    "revision": "5e98e899ea47e7b2d22f",
+    "url": "/reactnavbar/static/js/main.a3376573.chunk.js"
   },
   {
     "revision": "9e19432493381477e168",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2def7e70bfed91255eb6fce5ccc0b6e2",
     "url": "/reactnavbar/static/media/gatsby.2def7e70.svg"
+  },
+  {
+    "revision": "1190a19ce3cc940741a60137a1e074cb",
+    "url": "/reactnavbar/static/media/git.1190a19c.svg"
   },
   {
     "revision": "f0361c5e9bebc1c5647523db385641cf",
@@ -58,5 +62,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b446ca5a397c1ef6fb94cd02c4e94335",
     "url": "/reactnavbar/static/media/sass.b446ca5a.svg"
+  },
+  {
+    "revision": "ad28d74c5b5c2c4773c3a4b82cc84c55",
+    "url": "/reactnavbar/static/media/wordpress.ad28d74c.svg"
   }
 ]);

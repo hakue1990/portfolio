@@ -2,6 +2,7 @@ import reactLogo from "../assets/images/react.png";
 import htmlLogo from "../assets/images/html.png";
 import cssLogo from "../assets/images/css.png";
 import jsLogo from "../assets/images/js.png";
+import bmw from "../assets/images/bmw.jpg";
 
 export const cardsData = [
   {
@@ -19,6 +20,13 @@ export const cardsData = [
     link: "",
   },
   {
+    image: cssLogo,
+    title: "SCSS",
+    content:
+      "Kaskadowe arkusze stylów CSS (ang. Cascading Style Sheets) to kod służący do nadawania wyglądu strony. CSS Podstawy przeprowadzi cię przez bazowe zagadnienia, abyś mógł zacząć modyfikować wygląd swojej strony. Odpowiemy na takie pytania jak: Jak zrobić, żeby mój tekst był czarny albo czerwony? Jak wyświetlić poszczególną zawartość strony w wybranych miejscach ekranu? Jak dekorować stronę obrazami czy nadać kolor tła?",
+    link: "",
+  },
+  {
     image: jsLogo,
     title: "Javascript",
     content:
@@ -28,6 +36,13 @@ export const cardsData = [
   {
     image: reactLogo,
     title: "React",
+    content:
+      "React działa w izolacji od reszty stosu technologicznego, dzięki czemu możesz w nim tworzyć nowe funkcjonalności, bez konieczności przepisywania istniejącego kodu.",
+    link: "",
+  },
+  {
+    image: reactLogo,
+    title: "npm",
     content:
       "React działa w izolacji od reszty stosu technologicznego, dzięki czemu możesz w nim tworzyć nowe funkcjonalności, bez konieczności przepisywania istniejącego kodu.",
     link: "",

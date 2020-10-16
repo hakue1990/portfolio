@@ -8,7 +8,7 @@ const TechnologiesPage = () => {
   return (
     <>
       <main>
-        <h1>Technologies</h1>
+        <h1>Technologies i use:</h1>
         <div className="tech-container">{techItems}</div>
       </main>
     </>

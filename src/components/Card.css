@@ -55,3 +55,6 @@
   margin-top: -40px;
   transition-delay: 0.3s;
 }
+.card .content h1 {
+  font-size: 20px;
+}

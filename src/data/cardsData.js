@@ -38,7 +38,7 @@ export const cardsData = [
     image: jsLogo,
     title: "JavaScript",
     content:
-      "avaScript to język programowania, który umożliwia wdrożenie na stronie internetowej skomplikowanych elementów, dzięki którym strona ta może nie tylko wyświetlać statyczne informacje, ale również obsługiwać zmianę treść odpowiednio do sytuacji.",
+      "JavaScript to język programowania, który umożliwia wdrożenie na stronie internetowej skomplikowanych elementów, sprawia że strona staje się dynamiczna.",
     link:
       "https://developer.mozilla.org/pl/docs/Learn/JavaScript/Pierwsze_kroki/What_is_JavaScript",
   },

@@ -18,7 +18,7 @@ main h1:nth-child(1) {
 }
 main h1:nth-child(2) {
   color: #03a9f4;
-  animation: animate 2s ease-in-out infinite;
+  animation: animate 12s linear infinite;
 }
 
 @keyframes animate {

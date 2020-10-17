@@ -1,52 +1,25 @@
 main.aboutMe {
-  background-color: #333;
+  background-color: #111;
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
-main.aboutMe h1 {
-  font-size: 5rem;
-  position: absolute;
-  /* color: white; */
-  padding: 15px;
-  /* text-align: center; */
+#svgLogo path:nth-child(1) {
+  stroke-dasharray: 200px;
+  stroke-dashoffset: 50px;
 }
-main h1:nth-child(1) {
-  /* color: transparent; */
+#svgLogo path:nth-child(2) {
 }
-main h1:nth-child(2) {
-  color: #03a9f4;
-  animation: animate 12s linear infinite;
+#svgLogo path:nth-child(3) {
 }
-
-@keyframes animate {
-  0%,
-  100% {
-    clip-path: polygon(
-      0% 45%,
-      15% 44%,
-      32% 50%,
-      54% 60%,
-      70% 61%,
-      84% 59%,
-      100% 52%,
-      100% 100%,
-      0% 100%
-    );
-  }
-  50% {
-    clip-path: polygon(
-      0% 45%,
-      15% 44%,
-      32% 50%,
-      54% 60%,
-      70% 61%,
-      84% 59%,
-      100% 52%,
-      100% 100%,
-      0% 100%
-    );
-  }
+#svgLogo path:nth-child(4) {
+}
+#svgLogo path:nth-child(5) {
+}
+#svgLogo path:nth-child(6) {
+}
+#svgLogo path:nth-child(7) {
+}
+#svgLogo path:nth-child(8) {
 }

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactnavbar/static/css/main.80652a0c.chunk.css",
-    "main.js": "/reactnavbar/static/js/main.5dc6224b.chunk.js",
-    "main.js.map": "/reactnavbar/static/js/main.5dc6224b.chunk.js.map",
+    "main.css": "/reactnavbar/static/css/main.2091d41a.chunk.css",
+    "main.js": "/reactnavbar/static/js/main.2d9b5293.chunk.js",
+    "main.js.map": "/reactnavbar/static/js/main.2d9b5293.chunk.js.map",
     "runtime-main.js": "/reactnavbar/static/js/runtime-main.615df5cb.js",
     "runtime-main.js.map": "/reactnavbar/static/js/runtime-main.615df5cb.js.map",
     "static/js/2.f6b5826e.chunk.js": "/reactnavbar/static/js/2.f6b5826e.chunk.js",
     "static/js/2.f6b5826e.chunk.js.map": "/reactnavbar/static/js/2.f6b5826e.chunk.js.map",
     "index.html": "/reactnavbar/index.html",
-    "precache-manifest.4219f53d0c59dd1ffbf5315c9dd7d38b.js": "/reactnavbar/precache-manifest.4219f53d0c59dd1ffbf5315c9dd7d38b.js",
+    "precache-manifest.b7bacebccb7e72b1a3950168809b5cbc.js": "/reactnavbar/precache-manifest.b7bacebccb7e72b1a3950168809b5cbc.js",
     "service-worker.js": "/reactnavbar/service-worker.js",
-    "static/css/main.80652a0c.chunk.css.map": "/reactnavbar/static/css/main.80652a0c.chunk.css.map",
+    "static/css/main.2091d41a.chunk.css.map": "/reactnavbar/static/css/main.2091d41a.chunk.css.map",
     "static/js/2.f6b5826e.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.f6b5826e.chunk.js.LICENSE.txt",
     "static/media/adobe-xd.svg": "/reactnavbar/static/media/adobe-xd.87311a29.svg",
     "static/media/css3.svg": "/reactnavbar/static/media/css3.3707da3c.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.615df5cb.js",
     "static/js/2.f6b5826e.chunk.js",
-    "static/css/main.80652a0c.chunk.css",
-    "static/js/main.5dc6224b.chunk.js"
+    "static/css/main.2091d41a.chunk.css",
+    "static/js/main.2d9b5293.chunk.js"
   ]
 }

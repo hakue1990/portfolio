@@ -9,3 +9,9 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
+const logo = document.querySelectorAll("#svgLogo path");
+console.log(logo);
+
+for (let index = 0; index < logo.length; index++) {
+  console.log(`Letter ${index} is ${logo[index].getTotalLength()}`);
+}

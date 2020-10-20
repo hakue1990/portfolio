@@ -13,8 +13,9 @@ main.aboutMe p {
   color: white;
 }
 main.aboutMe img {
-  height: 17vmin;
+  /* height: 30vmin; */
+  width: 135px;
   border-radius: 50%;
-  border: 3px solid #333;
+  border: 3px solid black;
   margin-bottom: 50px;
 }

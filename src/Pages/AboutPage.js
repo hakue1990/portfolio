@@ -8,7 +8,7 @@ const AboutPage = () => {
     <>
       <main className="aboutMe">
         <img src={logo} alt="logo" />
-        <h1>Hi i'm Adam</h1>
+        <h1>Hi my name's Adam</h1>
         <br />
         <p>
           I'm a{" "}
@@ -16,16 +16,18 @@ const AboutPage = () => {
             loop={Infinity}
             wrapper="b"
             steps={[
-              "developer",
-              1000,
-              "designer",
-              1000,
-              "yogin",
-              1000,
-              "guitarist",
-              1000,
-              "dreamer",
-              1000,
+              "developer.",
+              1500,
+              "designer.",
+              1500,
+              "yogin.",
+              1500,
+              "guitarist.",
+              1500,
+              "dreamer.",
+              1500,
+              "smoker.",
+              1500,
             ]}
           />
         </p>

@@ -22,11 +22,9 @@ const AboutPage = () => {
               1500,
               "yogin.",
               1500,
-              "guitarist.",
+              "guitar player.",
               1500,
               "dreamer.",
-              1500,
-              "smoker.",
               1500,
             ]}
           />

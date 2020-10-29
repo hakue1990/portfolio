@@ -167,6 +167,7 @@ main {
   .navbar:hover ~ main {
     padding-left: 185px;
   }
+
   .navbar:hover .link-text {
     display: inline;
     transition: 3s;

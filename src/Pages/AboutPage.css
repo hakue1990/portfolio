@@ -1,55 +1,40 @@
 main.aboutMe {
-  background-color: black;
   min-height: 100vh;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    62deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(35, 199, 182, 1) 9%,
+    rgba(38, 214, 150, 1) 30%,
+    rgba(40, 226, 126, 1) 46%,
+    rgba(42, 190, 92, 1) 59%,
+    rgba(45, 253, 69, 0.6977077363896849) 84%
+  );
+}
+div.about-container {
+  width: 800px;
+  height: 500px;
+  display: flex;
+}
+div.contentBox {
+  padding: 115px;
+  display: flex;
+  flex-direction: column;
+}
+div.contentBox h1 {
+  padding: 20px;
+  font-size: 13px;
+}
+div.imageBox {
+  width: 300px;
   display: flex;
   align-items: center;
-  justify-content: center;
-  flex-direction: column;
 }
-main.aboutMe h1 {
-  color: white;
-}
-main.aboutMe p {
-  color: white;
-}
-main.aboutMe img {
-  /* height: 30vmin; */
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  border: 3px solid black;
-  margin-bottom: 50px;
-}
-section.aboutMe {
-  min-height: 60vh;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  color: black;
-  padding: 30px;
-  padding-top: 40px;
-}
-.navbar:hover ~ section {
-  padding-left: 185px;
-  margin-left: 5rem;
-}
-section {
-  transition: 0.5s ease-in-out;
-}
-
-section h2 {
-  margin-bottom: 20px;
-}
-@media only screen and (max-width: 600px) {
-  section.aboutMe {
-    min-height: 60vh;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding: 30px;
-    padding-top: 40px;
-  }
-  .navbar:hover ~ section {
-    padding: 0;
-  }
+div.imageBox img {
+  width: 300px;
+  height: 90%;
 }

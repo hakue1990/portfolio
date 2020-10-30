@@ -13,7 +13,9 @@
   --bg-primary: #23232e;
   --bg-secondary: #141418;
 }
-
+body {
+  font-family: "Montserrat";
+}
 body::-webkit-scrollbar {
   width: 0.2rem;
   background: red;
@@ -25,12 +27,4 @@ body::-webkit-scrollbar-thumb {
   background: var(--bg-primary);
   border-radius: 30px;
   height: 10px;
-}
-main {
-  padding-top: 1rem;
-  margin-left: 5rem;
-}
-
-p {
-  padding: 5px;
 }

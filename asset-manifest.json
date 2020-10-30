@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reactnavbar/static/css/main.5ce68fc0.chunk.css",
-    "main.js": "/reactnavbar/static/js/main.4008f07b.chunk.js",
-    "main.js.map": "/reactnavbar/static/js/main.4008f07b.chunk.js.map",
+    "main.css": "/reactnavbar/static/css/main.662a1959.chunk.css",
+    "main.js": "/reactnavbar/static/js/main.2288683c.chunk.js",
+    "main.js.map": "/reactnavbar/static/js/main.2288683c.chunk.js.map",
     "runtime-main.js": "/reactnavbar/static/js/runtime-main.615df5cb.js",
     "runtime-main.js.map": "/reactnavbar/static/js/runtime-main.615df5cb.js.map",
-    "static/js/2.3cdb8e21.chunk.js": "/reactnavbar/static/js/2.3cdb8e21.chunk.js",
-    "static/js/2.3cdb8e21.chunk.js.map": "/reactnavbar/static/js/2.3cdb8e21.chunk.js.map",
+    "static/js/2.a2bcc074.chunk.js": "/reactnavbar/static/js/2.a2bcc074.chunk.js",
+    "static/js/2.a2bcc074.chunk.js.map": "/reactnavbar/static/js/2.a2bcc074.chunk.js.map",
     "index.html": "/reactnavbar/index.html",
-    "precache-manifest.f088160272a741d2ee4bb4213adfea5e.js": "/reactnavbar/precache-manifest.f088160272a741d2ee4bb4213adfea5e.js",
+    "precache-manifest.97e9e62c4a4297993561db972f21c819.js": "/reactnavbar/precache-manifest.97e9e62c4a4297993561db972f21c819.js",
     "service-worker.js": "/reactnavbar/service-worker.js",
-    "static/css/main.5ce68fc0.chunk.css.map": "/reactnavbar/static/css/main.5ce68fc0.chunk.css.map",
-    "static/js/2.3cdb8e21.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.3cdb8e21.chunk.js.LICENSE.txt",
+    "static/css/main.662a1959.chunk.css.map": "/reactnavbar/static/css/main.662a1959.chunk.css.map",
+    "static/js/2.a2bcc074.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.a2bcc074.chunk.js.LICENSE.txt",
     "static/media/adobe-xd.svg": "/reactnavbar/static/media/adobe-xd.87311a29.svg",
-    "static/media/anonymous.jpg": "/reactnavbar/static/media/anonymous.bf5e06b5.jpg",
+    "static/media/anonymous.jpg": "/reactnavbar/static/media/anonymous.50086ad6.jpg",
     "static/media/css3.svg": "/reactnavbar/static/media/css3.3707da3c.svg",
     "static/media/gatsby.svg": "/reactnavbar/static/media/gatsby.2def7e70.svg",
     "static/media/git.svg": "/reactnavbar/static/media/git.1190a19c.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.615df5cb.js",
-    "static/js/2.3cdb8e21.chunk.js",
-    "static/css/main.5ce68fc0.chunk.css",
-    "static/js/main.4008f07b.chunk.js"
+    "static/js/2.a2bcc074.chunk.js",
+    "static/css/main.662a1959.chunk.css",
+    "static/js/main.2288683c.chunk.js"
   ]
 }

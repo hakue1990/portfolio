@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/reactnavbar/static/css/main.2156f654.chunk.css",
-    "main.js": "/reactnavbar/static/js/main.2288683c.chunk.js",
-    "main.js.map": "/reactnavbar/static/js/main.2288683c.chunk.js.map",
+    "main.css": "/reactnavbar/static/css/main.4bf8bcab.chunk.css",
+    "main.js": "/reactnavbar/static/js/main.c9d0a9b3.chunk.js",
+    "main.js.map": "/reactnavbar/static/js/main.c9d0a9b3.chunk.js.map",
     "runtime-main.js": "/reactnavbar/static/js/runtime-main.615df5cb.js",
     "runtime-main.js.map": "/reactnavbar/static/js/runtime-main.615df5cb.js.map",
-    "static/js/2.a2bcc074.chunk.js": "/reactnavbar/static/js/2.a2bcc074.chunk.js",
-    "static/js/2.a2bcc074.chunk.js.map": "/reactnavbar/static/js/2.a2bcc074.chunk.js.map",
+    "static/js/2.5f293906.chunk.js": "/reactnavbar/static/js/2.5f293906.chunk.js",
+    "static/js/2.5f293906.chunk.js.map": "/reactnavbar/static/js/2.5f293906.chunk.js.map",
     "index.html": "/reactnavbar/index.html",
-    "precache-manifest.ff74b15e988e344a5662681ee2fcfab4.js": "/reactnavbar/precache-manifest.ff74b15e988e344a5662681ee2fcfab4.js",
+    "precache-manifest.a7c86ccecfefef5eb2d0859fb7fa384a.js": "/reactnavbar/precache-manifest.a7c86ccecfefef5eb2d0859fb7fa384a.js",
     "service-worker.js": "/reactnavbar/service-worker.js",
-    "static/css/main.2156f654.chunk.css.map": "/reactnavbar/static/css/main.2156f654.chunk.css.map",
-    "static/js/2.a2bcc074.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.a2bcc074.chunk.js.LICENSE.txt",
+    "static/css/main.4bf8bcab.chunk.css.map": "/reactnavbar/static/css/main.4bf8bcab.chunk.css.map",
+    "static/js/2.5f293906.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.5f293906.chunk.js.LICENSE.txt",
     "static/media/adobe-xd.svg": "/reactnavbar/static/media/adobe-xd.87311a29.svg",
     "static/media/anonymous.jpg": "/reactnavbar/static/media/anonymous.50086ad6.jpg",
     "static/media/css3.svg": "/reactnavbar/static/media/css3.3707da3c.svg",
     "static/media/gatsby.svg": "/reactnavbar/static/media/gatsby.2def7e70.svg",
     "static/media/git.svg": "/reactnavbar/static/media/git.1190a19c.svg",
+    "static/media/github-brands.svg": "/reactnavbar/static/media/github-brands.ec5bc1b3.svg",
     "static/media/html5.svg": "/reactnavbar/static/media/html5.f0361c5e.svg",
+    "static/media/instagram-brands.svg": "/reactnavbar/static/media/instagram-brands.e75317fa.svg",
     "static/media/javascript.svg": "/reactnavbar/static/media/javascript.61ed8b05.svg",
+    "static/media/linkedin-brands.svg": "/reactnavbar/static/media/linkedin-brands.d9049f46.svg",
     "static/media/npm.svg": "/reactnavbar/static/media/npm.21107776.svg",
     "static/media/photoshop.svg": "/reactnavbar/static/media/photoshop.44676395.svg",
     "static/media/react.svg": "/reactnavbar/static/media/react.4009eef3.svg",
@@ -27,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.615df5cb.js",
-    "static/js/2.a2bcc074.chunk.js",
-    "static/css/main.2156f654.chunk.css",
-    "static/js/main.2288683c.chunk.js"
+    "static/js/2.5f293906.chunk.js",
+    "static/css/main.4bf8bcab.chunk.css",
+    "static/js/main.c9d0a9b3.chunk.js"
   ]
 }

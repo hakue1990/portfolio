@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ca418eb8b843b5e24775daa92608e38",
+    "revision": "f68985e75f91696a892d3840381c6a01",
     "url": "/reactnavbar/index.html"
   },
   {
-    "revision": "ae63cf4f8d68ef58e7dd",
-    "url": "/reactnavbar/static/css/main.2156f654.chunk.css"
+    "revision": "cd0936d36d3e266ee8ab",
+    "url": "/reactnavbar/static/css/main.4bf8bcab.chunk.css"
   },
   {
-    "revision": "7742a8e845ca50a9ea04",
-    "url": "/reactnavbar/static/js/2.a2bcc074.chunk.js"
+    "revision": "743098721a921fadf1b8",
+    "url": "/reactnavbar/static/js/2.5f293906.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/reactnavbar/static/js/2.a2bcc074.chunk.js.LICENSE.txt"
+    "url": "/reactnavbar/static/js/2.5f293906.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae63cf4f8d68ef58e7dd",
-    "url": "/reactnavbar/static/js/main.2288683c.chunk.js"
+    "revision": "cd0936d36d3e266ee8ab",
+    "url": "/reactnavbar/static/js/main.c9d0a9b3.chunk.js"
   },
   {
     "revision": "9e19432493381477e168",
@@ -44,12 +44,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactnavbar/static/media/git.1190a19c.svg"
   },
   {
+    "revision": "ec5bc1b3148ca464a3a3e17af89c3ead",
+    "url": "/reactnavbar/static/media/github-brands.ec5bc1b3.svg"
+  },
+  {
     "revision": "f0361c5e9bebc1c5647523db385641cf",
     "url": "/reactnavbar/static/media/html5.f0361c5e.svg"
   },
   {
+    "revision": "e75317fafc5e835195adf92be513d35b",
+    "url": "/reactnavbar/static/media/instagram-brands.e75317fa.svg"
+  },
+  {
     "revision": "61ed8b054178d0e8d1285ad8f29f4045",
     "url": "/reactnavbar/static/media/javascript.61ed8b05.svg"
+  },
+  {
+    "revision": "d9049f461eb3dd661b7f77c6e56e7593",
+    "url": "/reactnavbar/static/media/linkedin-brands.d9049f46.svg"
   },
   {
     "revision": "21107776d71d006c5199ab373961a674",

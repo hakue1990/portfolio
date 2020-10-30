@@ -4,37 +4,21 @@ main.aboutMe {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(34, 193, 195);
-  background: linear-gradient(
-    62deg,
-    rgba(34, 193, 195, 1) 0%,
-    rgba(35, 199, 182, 1) 9%,
-    rgba(38, 214, 150, 1) 30%,
-    rgba(40, 226, 126, 1) 46%,
-    rgba(42, 190, 92, 1) 59%,
-    rgba(45, 253, 69, 0.6977077363896849) 84%
-  );
 }
-div.about-container {
-  width: 800px;
-  height: 500px;
-  display: flex;
-}
-div.contentBox {
-  padding: 115px;
-  display: flex;
-  flex-direction: column;
-}
-div.contentBox h1 {
-  padding: 20px;
-  font-size: 13px;
-}
-div.imageBox {
+
+.imageBox img {
   width: 300px;
-  display: flex;
-  align-items: center;
+  padding: 30px;
+  position: relative;
+  animation: drop ease-in-out 0.3s;
 }
-div.imageBox img {
-  width: 300px;
-  height: 90%;
+@keyframes drop {
+  0% {
+    top: -30px;
+    opacity: 0;
+  }
+  100% {
+    top: 0;
+    opacity: 1;
+  }
 }

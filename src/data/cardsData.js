@@ -64,13 +64,7 @@ export const cardsData = [
       "Program firmy adobe do projektowania mock up'ów aplikacji webowych.",
     link: "https://pl.reactjs.org/",
   },
-  {
-    image: gatsbyLogo,
-    title: "gatsby",
-    content:
-      "Gatsby to oparta na React platforma open source do tworzenia witryn internetowych i aplikacji. ",
-    link: "https://www.gatsbyjs.com/",
-  },
+
   {
     image: npmLogo,
     title: "npm",

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactnavbar/static/css/main.4bf8bcab.chunk.css",
+    "main.css": "/reactnavbar/static/css/main.98214398.chunk.css",
     "main.js": "/reactnavbar/static/js/main.c9d0a9b3.chunk.js",
     "main.js.map": "/reactnavbar/static/js/main.c9d0a9b3.chunk.js.map",
     "runtime-main.js": "/reactnavbar/static/js/runtime-main.615df5cb.js",
@@ -8,9 +8,9 @@
     "static/js/2.5f293906.chunk.js": "/reactnavbar/static/js/2.5f293906.chunk.js",
     "static/js/2.5f293906.chunk.js.map": "/reactnavbar/static/js/2.5f293906.chunk.js.map",
     "index.html": "/reactnavbar/index.html",
-    "precache-manifest.a7c86ccecfefef5eb2d0859fb7fa384a.js": "/reactnavbar/precache-manifest.a7c86ccecfefef5eb2d0859fb7fa384a.js",
+    "precache-manifest.00d3535cc021a39c671ed07e03a3d3e3.js": "/reactnavbar/precache-manifest.00d3535cc021a39c671ed07e03a3d3e3.js",
     "service-worker.js": "/reactnavbar/service-worker.js",
-    "static/css/main.4bf8bcab.chunk.css.map": "/reactnavbar/static/css/main.4bf8bcab.chunk.css.map",
+    "static/css/main.98214398.chunk.css.map": "/reactnavbar/static/css/main.98214398.chunk.css.map",
     "static/js/2.5f293906.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.5f293906.chunk.js.LICENSE.txt",
     "static/media/adobe-xd.svg": "/reactnavbar/static/media/adobe-xd.87311a29.svg",
     "static/media/anonymous.jpg": "/reactnavbar/static/media/anonymous.50086ad6.jpg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.615df5cb.js",
     "static/js/2.5f293906.chunk.js",
-    "static/css/main.4bf8bcab.chunk.css",
+    "static/css/main.98214398.chunk.css",
     "static/js/main.c9d0a9b3.chunk.js"
   ]
 }

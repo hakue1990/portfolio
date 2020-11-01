@@ -3,7 +3,6 @@ import "./Card.css";
 import CardButton from "./CardButton";
 
 const Card = (props) => {
-  let counter = 1;
   return (
     <div className="card">
       <div className="imgBox">

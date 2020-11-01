@@ -5,13 +5,13 @@ main.aboutMe {
   justify-content: center;
   align-items: center;
 }
-
 .imageBox img {
   width: 300px;
   padding: 30px;
   position: relative;
   animation: drop ease-in-out 0.3s;
 }
+
 @keyframes drop {
   0% {
     top: -30px;

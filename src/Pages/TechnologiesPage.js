@@ -7,7 +7,7 @@ const TechnologiesPage = () => {
   const techItems = cardsData.map((item) => <Card item={item} />);
   return (
     <>
-      <main>
+      <main className="technologies">
         <div className="tech-container">{techItems}</div>
       </main>
     </>

@@ -14,17 +14,16 @@
   --bg-secondary: #141418;
 }
 body {
-  font-family: "Montserrat";
-  background: rgb(221, 222, 216);
+  background: rgb(202, 255, 246);
   background: linear-gradient(
     227deg,
-    rgba(221, 222, 216, 1) 0%,
-    rgba(192, 255, 145, 1) 100%
+    rgba(202, 255, 246, 1) 0%,
+    rgba(199, 225, 255, 1) 100%
   );
+  font-family: "Montserrat";
 }
 body::-webkit-scrollbar {
   width: 0.2rem;
-  background: red;
 }
 body::-webkit-scrollbar-track {
   background: black;
@@ -36,40 +35,86 @@ body::-webkit-scrollbar-thumb {
 }
 /* Small screens */
 @media only screen and (max-width: 600px) {
-  .tech-container {
-    flex-direction: column;
-  }
-  .navbar {
+  nav.navbar {
     top: 0;
     width: 100%;
     height: 5rem;
     z-index: 3;
   }
+  ul.navbar-nav {
+    display: flex;
+    flex-direction: row;
+  }
   main.aboutMe {
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
+    margin: 0;
+  }
+  main.contactMain,
+  main#projectsMain,
+  main.technologies {
+    margin: 0;
   }
 
+  div.tech-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
   .logo {
     display: none;
-  }
-
-  .navbar-nav {
-    flex-direction: row;
   }
 
   .nav-link {
     justify-content: center;
   }
-
-  main {
-    margin: 0;
+  div.socialIcons {
+    position: absolute;
+    /* background-color: blue; */
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: red; */
+  }
+  .socialIcons img {
+    width: 30px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    animation: drop 0.6s ease-in-out;
+  }
+  .socialIcons img:hover {
+    width: 32px;
   }
 }
 
 /* Large screens */
 @media only screen and (min-width: 600px) {
+  div.socialIcons {
+    position: absolute;
+    /* background-color: blue; */
+    bottom: 0;
+    right: 0;
+    width: 250px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .socialIcons img {
+    width: 30px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    animation: drop 0.6s ease-in-out;
+  }
+  .socialIcons img:hover {
+    width: 35px;
+  }
   .navbar {
     top: 0;
     width: 5rem;

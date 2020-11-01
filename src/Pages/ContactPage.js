@@ -4,7 +4,7 @@ import "./ContactPage.css";
 const ContactPage = () => {
   return (
     <>
-      <main id="contactMain">
+      <main className="contactMain">
         <svg
           id="contactLogo"
           width="726"

@@ -1,5 +1,6 @@
 .contactMain {
-  background-color: black;
+  background: url("../assets/images/stars.jpg") center;
+
   min-height: 100vh;
   display: flex;
   align-items: center;

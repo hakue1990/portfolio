@@ -56,7 +56,7 @@ function Navbar() {
                     className="fa-primary"></path>
                 </g>
               </svg>
-              <span className="link-text">About</span>
+              <span className="link-text">O mnie</span>
             </NavLink>
           </li>
 
@@ -82,7 +82,7 @@ function Navbar() {
                     className="fa-primary"></path>
                 </g>
               </svg>
-              <span className="link-text">Technologies</span>
+              <span className="link-text">Technologie</span>
             </NavLink>
           </li>
 
@@ -108,7 +108,7 @@ function Navbar() {
                     className="fa-primary"></path>
                 </g>
               </svg>
-              <span className="link-text"> Projects</span>
+              <span className="link-text"> Projekty</span>
             </NavLink>
           </li>
 
@@ -134,7 +134,7 @@ function Navbar() {
                     className="fa-primary"></path>
                 </g>
               </svg>
-              <span className="link-text">Contact</span>
+              <span className="link-text">Kontakt</span>
             </NavLink>
           </li>
         </ul>

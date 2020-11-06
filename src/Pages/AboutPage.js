@@ -16,18 +16,20 @@ const AboutPage = () => {
               <img src={image} alt="" />
             </div>
             <div className="textBox">
-              <h1>Cześć nazywam się Adam</h1>
+              <h1>Hi my name's Adam</h1>
               <h3>
-                Jestem
+                I'm
                 <Typical
                   steps={[
-                    "developerem.",
+                    "developer.",
                     1000,
-                    "designerem.",
+                    "designer.",
                     1500,
-                    "joginem.",
+                    "yogin.",
                     1000,
-                    "i gitarzystą (:",
+                    "guitar player.",
+                    1000,
+                    "and chess player.",
                     1000,
                   ]}
                   loop={Infinity}
@@ -37,12 +39,13 @@ const AboutPage = () => {
             </div>
           </div>
           <div className="aboutBox">
-            <h1>trochę o mnie (:</h1>
             <p>
-              od 2 lat jaram się technologiami webowymi. Akutalnie uczę się
-              Reacta moim następnym celem jest opanowanie Gatsbiego, oprócz tego
-              studiuje informatykę. W wolnym czasię gram na gitarzę i trenuje
-              joge. Szczególny nacisk kłade na rozwój!
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio
+              amet vero quas asperiores vel, sapiente voluptas neque est
+              veritatis eaque cum! Magni, vel! Quibusdam rerum quam asperiores,
+              dolor ipsam doloremque? Doloremque, labore suscipit. Facilis
+              nihil, itaque dignissimos tenetur culpa, veniam, doloremque
+              inventore commodi mollitia quod at? Vitae
             </p>
           </div>
         </div>

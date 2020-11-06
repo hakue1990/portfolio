@@ -1,16 +1,12 @@
 main.aboutMe {
-  min-height: 100vh;
+  min-height: 105vh;
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
-.imgBox img {
-  width: 200px;
-}
 .aboutBox {
-  padding: 15px;
+  padding: 20px;
 }
 @keyframes drop {
   0% {

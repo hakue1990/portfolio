@@ -31,8 +31,15 @@ body::-webkit-scrollbar-thumb {
 }
 /* Small screens */
 @media only screen and (max-width: 600px) {
+  main.aboutMe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   .container {
+    margin-top: 20px;
     width: 80%;
+    height: 75vh;
     color: white;
     background-color: rgba(35, 35, 46, 0.9);
     display: flex;
@@ -44,19 +51,18 @@ body::-webkit-scrollbar-thumb {
     display: flex;
     flex-direction: column;
   }
+  .wrapper h1 {
+    font-size: 13px;
+  }
   .imgBox img {
-    width: 200px;
+    width: 150px;
   }
   .aboutBox {
-    padding: 15px;
-    height: 320px;
+    padding: 13px;
   }
-  .aboutBox h1 {
-    font-size: 26px;
-    padding: 10px;
-  }
+
   .aboutBox p {
-    font-size: 13px;
+    font-size: 12px;
   }
   nav.navbar {
     top: 0;
@@ -64,6 +70,7 @@ body::-webkit-scrollbar-thumb {
     height: 5rem;
     z-index: 3;
   }
+
   ul.navbar-nav {
     display: flex;
     flex-direction: row;
@@ -134,7 +141,6 @@ body::-webkit-scrollbar-thumb {
   .wrapper {
     width: 50%;
     border-radius: 13px;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -149,6 +155,9 @@ body::-webkit-scrollbar-thumb {
   }
   .aboutBox h1 {
     padding: 20px;
+  }
+  .imgBox img {
+    width: 200px;
   }
 }
 

@@ -1,67 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a814b2dd3026a449a78844fdaae869b6",
+    "revision": "1c4cd1a73d45794e28d49eef4420b064",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "f16575074f898cdfc5cf",
-    "url": "/portfolio/static/css/main.31dca06c.chunk.css"
+    "revision": "2df8def34588ba1b91f6",
+    "url": "/portfolio/static/css/main.b3367f35.chunk.css"
   },
   {
-    "revision": "c67f8db93d504c7bb8c7",
-    "url": "/portfolio/static/js/2.d18e5a46.chunk.js"
+    "revision": "8a91bf94708db0a46dbe",
+    "url": "/portfolio/static/js/2.7ffa4857.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.d18e5a46.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.7ffa4857.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f16575074f898cdfc5cf",
-    "url": "/portfolio/static/js/main.1e8093ae.chunk.js"
+    "revision": "2df8def34588ba1b91f6",
+    "url": "/portfolio/static/js/main.f993edb1.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
-    "revision": "87311a2965477700ef6354a04e9ae1e0",
-    "url": "/portfolio/static/media/adobe-xd.87311a29.svg"
-  },
-  {
     "revision": "50086ad6524799225c61ae709185b17a",
     "url": "/portfolio/static/media/anonymous.50086ad6.jpg"
   },
   {
-    "revision": "3707da3c6a394c7ee2523273f8d98a25",
-    "url": "/portfolio/static/media/css3.3707da3c.svg"
+    "revision": "6971ddc761cc35ba918be0a69dfbcf50",
+    "url": "/portfolio/static/media/css3.6971ddc7.svg"
   },
   {
-    "revision": "2def7e70bfed91255eb6fce5ccc0b6e2",
-    "url": "/portfolio/static/media/gatsby.2def7e70.svg"
+    "revision": "805052423abf5e37804e11b9f7fff41e",
+    "url": "/portfolio/static/media/figma.80505242.svg"
   },
   {
     "revision": "1190a19ce3cc940741a60137a1e074cb",
     "url": "/portfolio/static/media/git.1190a19c.svg"
   },
   {
-    "revision": "ec5bc1b3148ca464a3a3e17af89c3ead",
-    "url": "/portfolio/static/media/github-brands.ec5bc1b3.svg"
-  },
-  {
     "revision": "f0361c5e9bebc1c5647523db385641cf",
     "url": "/portfolio/static/media/html5.f0361c5e.svg"
-  },
-  {
-    "revision": "e75317fafc5e835195adf92be513d35b",
-    "url": "/portfolio/static/media/instagram-brands.e75317fa.svg"
   },
   {
     "revision": "61ed8b054178d0e8d1285ad8f29f4045",
     "url": "/portfolio/static/media/javascript.61ed8b05.svg"
   },
   {
-    "revision": "d9049f461eb3dd661b7f77c6e56e7593",
-    "url": "/portfolio/static/media/linkedin-brands.d9049f46.svg"
+    "revision": "e84dfd6ee9387e2dc3256aa09173d7c7",
+    "url": "/portfolio/static/media/ludzik.e84dfd6e.png"
   },
   {
     "revision": "21107776d71d006c5199ab373961a674",

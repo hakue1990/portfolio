@@ -11,6 +11,7 @@ import wordpressLogo from "../assets/images/logos/wordpress.svg";
 
 export const cardsData = [
   {
+    id: 1,
     image: htmlLogo,
     title: "HTML5",
     content:
@@ -19,6 +20,7 @@ export const cardsData = [
       "https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/HTML_basics",
   },
   {
+    id: 2,
     image: cssLogo,
     title: "CSS3",
     content: "To kod służący do nadawania wyglądu strony.",
@@ -26,6 +28,7 @@ export const cardsData = [
       "https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/CSS_basics",
   },
   {
+    id: 3,
     image: scssLogo,
     title: "Sass",
     content:
@@ -34,6 +37,7 @@ export const cardsData = [
       "https://www.rekinysukcesu.pl/blog/internet/preprocesory-css-po-co-mi-to-wstep-do-sass-scss",
   },
   {
+    id: 4,
     image: jsLogo,
     title: "JavaScript",
     content:
@@ -42,6 +46,7 @@ export const cardsData = [
       "https://developer.mozilla.org/pl/docs/Learn/JavaScript/Pierwsze_kroki/What_is_JavaScript",
   },
   {
+    id: 5,
     image: reactLogo,
     title: "React",
     content:
@@ -49,6 +54,7 @@ export const cardsData = [
     link: "https://pl.reactjs.org/",
   },
   {
+    id: 6,
     image: psLogo,
     title: "Photoshop",
     content:
@@ -57,6 +63,7 @@ export const cardsData = [
       "https://www.adobe.com/pl/products/photoshop.html?sdid=8JD95K3R&mv=search&skwcid=AL!3085!3!442252458636!e!!g!!photoshop&ef_id=CjwKCAjwiaX8BRBZEiwAQQxGxxt233Fp7a4Tb9FIu-H38bwTTYGkfbZSuWr6VwYwBgL9NpKO6VBKrRoCbuwQAvD_BwE:G:s&s_kwcid=AL!3085!3!442252458636!e!!g!!photoshop!1471239101!57370854392&gclid=CjwKCAjwiaX8BRBZEiwAQQxGxxt233Fp7a4Tb9FIu-H38bwTTYGkfbZSuWr6VwYwBgL9NpKO6VBKrRoCbuwQAvD_BwE",
   },
   {
+    id: 7,
     image: figmaLogo,
     title: "Figma",
     content:
@@ -65,6 +72,7 @@ export const cardsData = [
   },
 
   {
+    id: 8,
     image: npmLogo,
     title: "npm",
     content:
@@ -72,6 +80,7 @@ export const cardsData = [
     link: "https://www.npmjs.com/",
   },
   {
+    id: 9,
     image: gitLogo,
     title: "git",
     content:
@@ -79,6 +88,7 @@ export const cardsData = [
     link: "https://git-scm.com/",
   },
   {
+    id: 10,
     image: wordpressLogo,
     title: "wordpress",
     content:

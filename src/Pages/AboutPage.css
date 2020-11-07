@@ -14,6 +14,9 @@ main.aboutMe {
 .aboutBox {
   padding: 20px;
 }
+.aboutBox h2 {
+  letter-spacing: 5px;
+}
 @keyframes drop {
   0% {
     top: -30px;

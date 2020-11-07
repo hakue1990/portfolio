@@ -34,12 +34,16 @@ const AboutPage = () => {
             </div>
           </div>
           <div className="aboutBox">
-            <h2>little about me</h2>
+            <h2>
+              <span style={{ color: "red" }}>little</span>{" "}
+              <span style={{ color: "orange" }}>about</span>{" "}
+              <span style={{ color: "green" }}>me</span>
+            </h2>
             <p>
               <br />
-              I'm passionate about web technologies. I am currently learning
-              React.js, my next goal is Gatsby.js in my spare time I train yoga,
-              play guitar, go for walks with my beloved dog.
+              I'm IT student who's passionate about web technologies. I am
+              currently learning React.js, my next goal is Gatsby.js in my spare
+              time I train yoga, play guitar, go for walks with my beloved dog.
             </p>
           </div>
         </div>

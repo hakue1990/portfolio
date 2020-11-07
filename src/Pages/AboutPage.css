@@ -1,9 +1,15 @@
 main.aboutMe {
-  min-height: 105vh;
+  min-height: 100vh;
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
+}
+.ludziki {
+  margin: 0;
+  width: 90vw;
+  position: absolute;
 }
 .aboutBox {
   padding: 20px;

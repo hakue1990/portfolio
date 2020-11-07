@@ -2,7 +2,6 @@ import React from "react";
 import "./AboutPage.css";
 import Typical from "react-typical";
 import image from "../assets/images/anonymous.jpg";
-import ludzik from "../assets/images/ludzik.png";
 
 const AboutPage = () => {
   return (

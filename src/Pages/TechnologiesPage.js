@@ -4,7 +4,7 @@ import Card from "../components/Card";
 import "./TechnologiesPage.css";
 
 const TechnologiesPage = () => {
-  const techItems = cardsData.map((item) => <Card item={item} />);
+  const techItems = cardsData.map((item) => <Card item={item} key={item.id} />);
   return (
     <>
       <main className="technologies">

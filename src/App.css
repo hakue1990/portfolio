@@ -13,6 +13,46 @@
   --bg-primary: #23232e;
   --bg-secondary: #141418;
 }
+.ludziki {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  bottom: 0;
+}
+.ludziki img {
+  width: 80px;
+  height: 80px;
+  animation: move 5s ease-in-out infinite;
+  z-index: -1;
+}
+.ludziki img:nth-child(1) {
+  animation-delay: 2s;
+}
+.ludziki img:nth-child(2) {
+  animation-delay: 1s;
+}
+.ludziki img:nth-child(3) {
+  animation-delay: 5s;
+}
+.ludziki img:nth-child(4) {
+  animation-delay: 2s;
+}
+.ludziki img:nth-child(5) {
+  animation-delay: 1s;
+}
+
+@keyframes move {
+  0% {
+    opacity: 1;
+    transform: translateY(60px) rotate(0);
+  }
+  100% {
+    opacity: 0;
+
+    transform: translateY(-100vh) rotate(360deg);
+  }
+}
 body {
   background: url("./assets/images/stars.jpg") center;
 
@@ -39,31 +79,29 @@ body::-webkit-scrollbar-thumb {
   .container {
     margin-top: 20px;
     width: 80%;
-    height: 75vh;
+    height: 80vh;
     color: white;
     background-color: rgba(35, 35, 46, 0.9);
     display: flex;
     flex-direction: column;
     border-radius: 13px;
+    padding: 5px;
   }
   .wrapper {
-    padding: 25px;
+    padding: 15px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    font-size: 12px;
+  }
+  .wrapper img {
+    width: 170px;
+    padding: 10px;
   }
   .wrapper h1 {
     font-size: 13px;
   }
-  .imgBox img {
-    width: 150px;
-  }
-  .aboutBox {
-    padding: 13px;
-  }
 
-  .aboutBox p {
-    font-size: 12px;
-  }
   nav.navbar {
     top: 0;
     width: 100%;
@@ -139,25 +177,31 @@ body::-webkit-scrollbar-thumb {
     border-radius: 13px;
   }
   .wrapper {
-    width: 50%;
-    border-radius: 13px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    flex: 1;
+  }
+  .wrapper img {
+    margin-bottom: 30px;
+    width: 200px;
+    filter: drop-shadow(3px 3px 3px black);
+    transition: 0.3s ease;
+  }
+  .wrapper img:hover {
+    transform: scale(1.2);
+    cursor: pointer;
   }
   .aboutBox {
-    width: 50%;
-    border-radius: 13px;
-
     display: flex;
-    justify-content: center;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 2;
   }
-  .aboutBox h1 {
-    padding: 20px;
-  }
-  .imgBox img {
-    width: 200px;
+  .aboutBox p {
+    font-size: 1.5rem;
   }
 }
 

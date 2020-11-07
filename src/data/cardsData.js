@@ -4,8 +4,7 @@ import scssLogo from "../assets/images/logos/sass.svg";
 import jsLogo from "../assets/images/logos/javascript.svg";
 import reactLogo from "../assets/images/logos/react.svg";
 import psLogo from "../assets/images/logos/photoshop.svg";
-import xdLogo from "../assets/images/logos/adobe-xd.svg";
-import gatsbyLogo from "../assets/images/logos/gatsby.svg";
+import figmaLogo from "../assets/images/logos/figma.svg";
 import npmLogo from "../assets/images/logos/npm.svg";
 import gitLogo from "../assets/images/logos/git.svg";
 import wordpressLogo from "../assets/images/logos/wordpress.svg";
@@ -58,32 +57,32 @@ export const cardsData = [
       "https://www.adobe.com/pl/products/photoshop.html?sdid=8JD95K3R&mv=search&skwcid=AL!3085!3!442252458636!e!!g!!photoshop&ef_id=CjwKCAjwiaX8BRBZEiwAQQxGxxt233Fp7a4Tb9FIu-H38bwTTYGkfbZSuWr6VwYwBgL9NpKO6VBKrRoCbuwQAvD_BwE:G:s&s_kwcid=AL!3085!3!442252458636!e!!g!!photoshop!1471239101!57370854392&gclid=CjwKCAjwiaX8BRBZEiwAQQxGxxt233Fp7a4Tb9FIu-H38bwTTYGkfbZSuWr6VwYwBgL9NpKO6VBKrRoCbuwQAvD_BwE",
   },
   {
-    image: xdLogo,
-    title: "Adobe XD",
+    image: figmaLogo,
+    title: "Figma",
     content:
-      "Program firmy adobe do projektowania mock up'ów aplikacji webowych.",
-    link: "https://pl.reactjs.org/",
+      "Program dla designerów do projektowania  aplikacji webowych i nie tylko.",
+    link: "https://www.figma.com/",
   },
 
   {
     image: npmLogo,
     title: "npm",
     content:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi, inventore. Facere, earum porro.",
-    link: "https://pl.reactjs.org/",
+      "domyślny manager pakietów dla środowiska Node.js, może być także używany do zarządzania warstwą front-end aplikacji.",
+    link: "https://www.npmjs.com/",
   },
   {
     image: gitLogo,
     title: "git",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, illo.",
-    link: "https://pl.reactjs.org/",
+      "rozproszony system kontroli wersji. Stworzył go Linus Torvalds jako narzędzie wspomagające rozwój jądra Linux.",
+    link: "https://git-scm.com/",
   },
   {
     image: wordpressLogo,
     title: "wordpress",
     content:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur, quae.",
-    link: "https://pl.reactjs.org/",
+      "napisany w języku PHP system zarządzania treścią zaprojektowany głównie do obsługi blogów. Wykorzystuje bazę danych MySQL.",
+    link: "https://pl.wordpress.org/",
   },
 ];

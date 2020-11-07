@@ -6,10 +6,18 @@ import ProjectsPage from "./Pages/ProjectsPage";
 import ContactPage from "./Pages/ContactPage";
 import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import ludzik from "./assets/images/ludzik.png";
 
 function App() {
   return (
     <Router>
+      <div className="ludziki">
+        <img src={ludzik} alt="pamper" />
+        <img src={ludzik} alt="pamper" />
+        <img src={ludzik} alt="pamper" />
+        <img src={ludzik} alt="pamper" />
+      </div>
+
       <Navbar />
       <Switch>
         <Route exact path="/" component={AboutPage} />

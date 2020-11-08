@@ -1,0 +1,36 @@
+.contact-section h1 {
+  color: white;
+  margin: 40px;
+}
+
+.contact-form {
+  background-color: rgba(35, 35, 46, 0.9);
+  min-width: 400px;
+  min-height: 450px;
+  margin: auto;
+  padding: 0 10px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.contact-form-text {
+  background-color: black;
+  margin: 10px;
+  border: none;
+  padding: 20px 20px;
+  width: 100%;
+  outline: none;
+  color: #ddd;
+  transition: 0.5s;
+}
+.contact-form-text:hover {
+  box-shadow: 0 0 10px 4px #34495e;
+}
+.contact-form-btn {
+  border: 3px solid black;
+  background: none;
+  font-size: 24px;
+  cursor: pointer;
+}

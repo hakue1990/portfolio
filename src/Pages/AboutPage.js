@@ -35,9 +35,9 @@ const AboutPage = () => {
           </div>
           <div className="aboutBox">
             <h2>
-              <span style={{ color: "red" }}>little</span>{" "}
-              <span style={{ color: "orange" }}>about</span>{" "}
-              <span style={{ color: "green" }}>me</span>
+              <span style={{ color: "red" }}>little</span>
+              <span style={{ color: "green" }}>about</span>
+              <span style={{ color: "orange" }}>me</span>
             </h2>
             <p>
               <br />

@@ -1,0 +1,10 @@
+div.project-card {
+  min-width: 300px;
+  height: 300px;
+  margin: 30px 30px;
+  border-radius: 13px;
+  transition: 0.3s;
+}
+div.project-card:hover {
+  transform: scale(1.1);
+}

@@ -28,6 +28,7 @@ main {
   width: 50px;
   height: 50px;
   animation: move 3s ease-in-out infinite;
+
   z-index: -1;
 }
 .ludziki img:nth-child(1) {
@@ -36,24 +37,24 @@ main {
   animation-delay: 2s;
 }
 .ludziki img:nth-child(2) {
-  animation-delay: 1s;
+  animation-delay: 0.5s;
   width: 70px;
   height: 70px;
 }
 .ludziki img:nth-child(3) {
   width: 50px;
   height: 50px;
-  animation-delay: 5s;
+  animation-delay: 1.5s;
 }
 .ludziki img:nth-child(4) {
   width: 60px;
   height: 60px;
-  animation-delay: 2s;
+  animation-delay: 1.7s;
 }
 .ludziki img:nth-child(5) {
   width: 120px;
   height: 120px;
-  animation-delay: 1s;
+  animation-delay: 1.3s;
 }
 
 @keyframes move {
@@ -149,12 +150,28 @@ body::-webkit-scrollbar-thumb {
     align-items: center;
     flex-direction: column;
   }
+  #projectsMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
   .logo {
     display: none;
   }
 
   .nav-link {
     justify-content: center;
+  }
+  .ludziki img:nth-child(5) {
+    width: 60px;
+    height: 60px;
+  }
+  #projectsMain {
+    flex-direction: column;
+  }
+  main#projectsMain img {
+    width: 300px;
   }
 }
 
@@ -219,6 +236,13 @@ body::-webkit-scrollbar-thumb {
   }
   .aboutBox p {
     font-size: 1.5rem;
+  }
+  #projectsMain {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
   }
 }
 

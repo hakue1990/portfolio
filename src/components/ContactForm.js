@@ -15,6 +15,7 @@ export default function ContactUs() {
       .then(
         (result) => {
           console.log(result.text);
+          alert("wysłano!");
         },
         (error) => {
           console.log(error.text);
@@ -25,7 +26,7 @@ export default function ContactUs() {
 
   return (
     <div className="contact-section">
-      <h1>Contact Me</h1>
+      <h1>Contact me.</h1>
       <form className="contact-form" onSubmit={sendEmail}>
         <input
           type="text"

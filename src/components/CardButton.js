@@ -3,7 +3,7 @@ import "./CardButton.css";
 const CardButton = (props) => {
   return (
     <a href={props.link} target="blank" className="cardButton">
-      Dowiedz się więcej
+      Learn more
     </a>
   );
 };

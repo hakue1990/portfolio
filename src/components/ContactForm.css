@@ -1,11 +1,11 @@
 .contact-section h1 {
   color: white;
-  margin: 40px;
+  margin: 45px 0 20px 0;
 }
 
 .contact-form {
   background-color: rgba(35, 35, 46, 0.9);
-  min-width: 400px;
+  min-width: 370px;
   min-height: 450px;
   margin: auto;
   padding: 0 10px;
@@ -14,6 +14,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  position: relative;
 }
 .contact-form-text {
   background-color: black;
@@ -28,9 +29,19 @@
 .contact-form-text:hover {
   box-shadow: 0 0 10px 4px #34495e;
 }
+
+textarea.contact-form-text {
+  height: 120px;
+  resize: none;
+}
 .contact-form-btn {
-  border: 3px solid black;
-  background: none;
+  border: none;
+  background: #34495e;
   font-size: 24px;
   cursor: pointer;
+  border-radius: 15px;
+  padding: 5px 20px;
+}
+.contact-form-btn:hover {
+  background-color: white;
 }

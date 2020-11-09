@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "865c7346839de92e9b734cc99f8fdb01",
+    "revision": "3fac3be8a3baabb12bd6845df085c931",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d4bd8ca25c2b52995ae7",
-    "url": "/portfolio/static/css/main.842f1d2a.chunk.css"
+    "revision": "865b3a88e6751785ace4",
+    "url": "/portfolio/static/css/main.3535c68e.chunk.css"
   },
   {
-    "revision": "23a8f5376a4107e239e0",
-    "url": "/portfolio/static/js/2.2db254e6.chunk.js"
+    "revision": "d2856ec145d1ee1fb6aa",
+    "url": "/portfolio/static/js/2.c0505261.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.2db254e6.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.c0505261.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4bd8ca25c2b52995ae7",
-    "url": "/portfolio/static/js/main.d1b3cb50.chunk.js"
+    "revision": "865b3a88e6751785ace4",
+    "url": "/portfolio/static/js/main.a775ebc9.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -28,12 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/anonymous.50086ad6.jpg"
   },
   {
-    "revision": "fde3e6265a70df3a3bb3e12a3a886b01",
-    "url": "/portfolio/static/media/apple.fde3e626.png"
+    "revision": "b4c1b6eed38acab2a7fdc20bfc82bf4b",
+    "url": "/portfolio/static/media/apple.b4c1b6ee.png"
   },
   {
     "revision": "6971ddc761cc35ba918be0a69dfbcf50",
     "url": "/portfolio/static/media/css3.6971ddc7.svg"
+  },
+  {
+    "revision": "f427b85edd4e7cd3331bee44f4004fce",
+    "url": "/portfolio/static/media/euro.f427b85e.png"
   },
   {
     "revision": "805052423abf5e37804e11b9f7fff41e",
@@ -56,12 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/ludzik.e84dfd6e.png"
   },
   {
-    "revision": "1f5e49e7553869abb38046583b75bc96",
-    "url": "/portfolio/static/media/menu.1f5e49e7.png"
+    "revision": "875e49e34a23e6adb1a7cc1ca7a8e885",
+    "url": "/portfolio/static/media/mario.875e49e3.png"
+  },
+  {
+    "revision": "fbf002bfb853748f5330b7098e332e8d",
+    "url": "/portfolio/static/media/menu.fbf002bf.png"
   },
   {
     "revision": "21107776d71d006c5199ab373961a674",
     "url": "/portfolio/static/media/npm.21107776.svg"
+  },
+  {
+    "revision": "a2a9a3a9a13eb576ebb2c6113b829367",
+    "url": "/portfolio/static/media/pani.a2a9a3a9.png"
   },
   {
     "revision": "446763959684b108ca164f3cdc9c96d0",
@@ -80,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/stars.9b64a25d.jpg"
   },
   {
-    "revision": "24d0396459647570afc5c9595ea0163b",
-    "url": "/portfolio/static/media/todoapp.24d03964.png"
+    "revision": "697568b6ad8cb14f57a65e02e2333c2f",
+    "url": "/portfolio/static/media/todoapp.697568b6.png"
   },
   {
-    "revision": "24bdba8a0fc8fd59c93f475b08fcf18b",
-    "url": "/portfolio/static/media/witcherForm.24bdba8a.png"
+    "revision": "bfb992bc2b33d33a692936689ea17a53",
+    "url": "/portfolio/static/media/witcherForm.bfb992bc.png"
   },
   {
     "revision": "ad28d74c5b5c2c4773c3a4b82cc84c55",
